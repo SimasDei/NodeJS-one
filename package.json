@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SimasDei/NodeJS-one#readme",
   "devDependencies": {
     "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
